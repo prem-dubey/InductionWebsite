@@ -1,12 +1,34 @@
-# React + Vite
+# 🎓 IIT Kharagpur Induction Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the official **Induction Website** built as part of the Web Secretary task! This fully responsive React-based website is designed to help incoming first-year students navigate life at **IIT Kharagpur**, providing them with useful information about campus, academics, halls of residence, clubs, and more.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+-  **Landing Page** with hero section and smooth scroll CTA
+-  **Sticky Navigation Bar** with routes to all pages (React Router)
+-  **About Campus** section with visuals and informative cards
+-  **Clubs & Societies** section with responsive informative cards
+-  **FAQ Section** with 6 helpful questions
+-  **Contact Page** with student council and emergency contacts
+-  **Smooth Animations** using Tailwind
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🧰 Tech Stack
+
+- **React.js** for UI development
+- **React Router DOM** for client-side routing
+- **Tailwind CSS** for responsive styling
+- **Vite** for fast development build
+- **Vercel** for deployment
+
+
+## 🔧 Installation
+
+Clone the repository and install dependencies:
+
+```
+git clone https://github.com/prem-dubey/InductionWebsite.git
+cd InductionWebsite
+npm install
+npm run dev
+```
