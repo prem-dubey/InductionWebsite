@@ -32,3 +32,22 @@ cd InductionWebsite
 npm install
 npm run dev
 ```
+
+## 🌐 Deployment
+Here's the link to the website 
+[Inudction Website 2025](https://your-vercel-link.vercel.app)
+
+## ✨ Screenshots
+![Image](https://res.cloudinary.com/dzwxshzzl/image/upload/v1752752737/Screenshot_2025-07-17_at_5.10.40_PM_ppvfeu.png)
+
+## 🤝 Credits
+Designed and developed by: Piyush Dubey ( 24NA10046 ) <br>
+As part of the Web Secretary Selection Task <br>
+Inspired by the mission to guide KGP freshers <br>
+
+
+## 📬 Contact
+Feel free to reach out to : <br>
+premdubey10981@gmail.com <br>
+[LinkedIn](https://www.linkedin.com/in/piyush-dubey-6b92a1312/)
+
