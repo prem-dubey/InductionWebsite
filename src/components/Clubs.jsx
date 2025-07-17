@@ -7,7 +7,7 @@ export default function Clubs() {
 
           <div className="rounded-lg shadow-lg p-6 bg-gray-100 hover:bg-gray-200 transition duration-300" >
             <div className="text-4xl mb-4 object-cover">
-              <img src="./src/assets/club6.jpeg" alt="" className="bg-cover bg-center object-cover w-full rounded-lg" />
+              <img src="/club6.jpeg" alt="" className="bg-cover bg-center object-cover w-full rounded-lg" />
             </div>
             <div className="p-5">
               <h3 className="text-xl font-semibold mb-2">Aerial Robotics Kharagpur</h3>
@@ -17,7 +17,7 @@ export default function Clubs() {
 
           <div className="rounded-lg shadow-lg p-6 bg-gray-100 hover:bg-gray-200 transition duration-300" >
             <div className="text-4xl mb-4 object-cover">
-              <img src="./src/assets/club5.jpeg" alt="" className="bg-cover bg-center object-cover w-full rounded-lg" />
+              <img src="/club5.jpeg" alt="" className="bg-cover bg-center object-cover w-full rounded-lg" />
             </div>
             <div className="p-5">
               <h3 className="text-xl font-semibold mb-2">Gujarat Cultural Association</h3>
@@ -27,7 +27,7 @@ export default function Clubs() {
 
           <div className="rounded-lg shadow-lg p-6 bg-gray-100 hover:bg-gray-200 transition duration-300" >
             <div className="text-4xl mb-4 object-cover">
-              <img src="./src/assets/techclub1.jpeg" alt="" className="bg-cover bg-center object-cover w-full rounded-lg" />
+              <img src="/techclub1.jpeg" alt="" className="bg-cover bg-center object-cover w-full rounded-lg" />
             </div>
             <div className="p-5">
               <h3 className="text-xl font-semibold mb-2">Kharagpur OpenSource Society</h3>
@@ -37,7 +37,7 @@ export default function Clubs() {
 
           <div className="rounded-lg shadow-lg p-6 bg-gray-100 hover:bg-gray-200 transition duration-300" >
             <div className="text-4xl mb-4 object-cover ">
-              <img src="./src/assets/techclub2.png" alt="" className="bg-cover bg-center object-cover w-full h-full rounded-lg" />
+              <img src="/techclub2.png" alt="" className="bg-cover bg-center object-cover w-full h-full rounded-lg" />
             </div>
             <div className="p-5">
               <h3 className="text-xl font-semibold mb-2">TeamKart</h3>
@@ -47,7 +47,7 @@ export default function Clubs() {
 
           <div className="rounded-lg shadow-lg p-6 bg-gray-100 hover:bg-gray-200 transition duration-300" >
             <div className="text-4xl mb-4 object-cover">
-              <img src="./src/assets/club4.jpeg" alt="" className="bg-cover bg-center  w-full h-full rounded-lg overflow-hidden" />
+              <img src="/club4.jpeg" alt="" className="bg-cover bg-center  w-full h-full rounded-lg overflow-hidden" />
             </div>
             <div className="p-5">
               <h3 className="text-xl font-semibold mb-2">Encore</h3>

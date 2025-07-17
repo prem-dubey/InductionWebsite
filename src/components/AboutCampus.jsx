@@ -21,7 +21,7 @@ export default function AboutCampus() {
             {/* Making the left and right type about section */}
             <div className="mt-12 max-w-5xl mx-auto flex flex-col md:flex-row justify-between items-center gap-10">
 
-                <img src="./src/assets/kgp-slider1.png" alt="" className="w-100 rounded-lg shadow-2xl" />
+                <img src="/kgp-slider1.png" alt="" className="w-100 rounded-lg shadow-2xl" />
 
                 <div className="text-center mt-6 bg-white p-6 rounded-lg shadow-lg">
                     <h3 className="text-2xl font-semibold">A Glimpse of IIT Kharagpur</h3>
@@ -31,7 +31,7 @@ export default function AboutCampus() {
             </div>
             <div className="mt-12 max-w-5xl mx-auto flex flex-col md:flex-row justify-between items-center gap-10 ">
                 
-                <img src="./src/assets/kgp-slider2.jpeg" alt="" className="w-100 rounded-lg" />
+                <img src="/kgp-slider2.jpeg" alt="" className="w-100 rounded-lg" />
 
                 <div className="text-center mt-6 bg-white p-6 rounded-lg shadow-lg mx-auto">
                     <h3 className="text-2xl font-semibold">Gymkhana</h3>
@@ -41,7 +41,7 @@ export default function AboutCampus() {
             </div>
             <div className="mt-12 max-w-5xl mx-auto flex flex-col md:flex-row justify-between items-center gap-10 ">
 
-                <img src="./src/assets/kgp-slider3.png" alt="" className="w-100 rounded-lg" />
+                <img src="/kgp-slider3.png" alt="" className="w-100 rounded-lg" />
 
                 <div className="text-center mt-6 bg-white p-6 rounded-lg shadow-lg mx-auto">
                     <h3 className="text-2xl font-semibold">Hall of Residence</h3>
